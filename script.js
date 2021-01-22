@@ -2,10 +2,6 @@
 let text = document.getElementById("write");
 let btn = document.getElementById("save");
 let cell = document.getElementById("selectID");
-let optionCell1 = document.getElementById("one");
-let optionCell2 = document.getElementById("two");
-let optionCell3 = document.getElementById("three");
-const form = document.getElementById('form')
 
 cell.onchange = function next(event) {
     text.value = event.target.value
