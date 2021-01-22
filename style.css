@@ -1,0 +1,28 @@
+
+#windowApp {
+    max-height: 350px;
+    background-color: cornsilk;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+   width: 350px;
+}
+#selectID {
+    width: 210px;
+}
+
+#write {
+    width: 250px;
+    height: 30px;
+}
+
+#save {
+margin-left: -20px;
+padding-bottom: 43px;
+height: 40px;
+width: 70px;
+background-color:darksalmon;
+border-radius: 20px;
+border-style:inset;
+}
